@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarrezGomez
-- 👀 I’m interested in learning Enlgish
+- 👀 I’m interested in learning English
 - 🌱 I’m currently learning advanced Python and C++
 - 💞️ I’m looking to collaborate on App Development
 - 📫 How to reach me: _carrezgomez on Discord
